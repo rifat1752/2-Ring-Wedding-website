@@ -5,7 +5,7 @@ const Service = ({ service }) => {
   return (
 
       <div
-      data-aos="flip-left" 
+      // data-aos="flip-left" 
        className=" w-72  rounded-xl hover:shadow-lg  h-96 mb-10 border-2 border-slate-400   bg-base-200 shadow-2xl  wrapper  ">
         <figure className="image   w-full h-full">
           <img

@@ -13,9 +13,12 @@ const Brides = () => {
         <div className="mx-5">
           <div>
             <div>
-                <div data-aos={window.screen.width < 720 ? "zoom-in" :"zoom-in" } className="w-full my-10  py-20  flex flex-col justify-center items-center">
-                    <img  data-aos={window.screen.width < 720 ? "zoom-in" : "fade-down"} 
-                     data-aos-delay={window.screen.width < 720 ? "" : "500"}
+                <div
+                //  data-aos={window.screen.width < 720 ? "zoom-in" :"zoom-in" } 
+                 className="w-full my-10  py-20  flex flex-col justify-center items-center">
+                    <img 
+                    //  data-aos={window.screen.width < 720 ? "zoom-in" : "fade-down"} 
+                    //  data-aos-delay={window.screen.width < 720 ? "" : "500"}
                       className="w-24 h-24 my-5" src={logo1} alt="" />
                     <h1 className="2xl:text-6xl xl:text-5xl lg:text-4xl text-2xl   text-[#FF007F] font-bold text-center my-5">Bridesmaids And Groomsmen</h1>
                   <p data-aos="zoom-in"  className={`text-sm md:text-base lg:text-lg xl:text-xl courgette-regular text-center w-3/4 font-medium my-5  ${(themeColor=="dark")?"text-slate-300":"text-gray-600"}`}> <i >"We understand that the people standing beside you on your wedding day are not just attendants; they are an integral part of your love story. Ensuring that your bridal party looks stunning, feels supported, and contributes to the joyous atmosphere of your celebration."</i></p> 

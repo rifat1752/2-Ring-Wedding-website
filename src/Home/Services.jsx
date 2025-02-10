@@ -13,9 +13,13 @@ const Services = ({home}) => {
     return (
         <div className={`border ${(themeColor=="dark")?"border-slate-700 bg-[#191e24]":" border-slate-200 bg-slate-50"}  my-5 py-10 rounded-xl mx-5`}> 
           
-                <div data-aos={window.screen.width < 720 ? "zoom-in" :"zoom-in" } className="w-full py-5   flex flex-col justify-center items-center">
-                    <img data-aos={window.screen.width < 720 ? "zoom-in" : "fade-down"} 
-                    data-aos-delay={window.screen.width < 720 ? "" : "500"} className="w-24 h-20 my-5" src="https://i.ibb.co.com/yYK900G/logo.png" alt="" />
+                <div
+                //  data-aos={window.screen.width < 720 ? "zoom-in" :"zoom-in" }
+                  className="w-full py-5   flex flex-col justify-center items-center">
+                    <img 
+                    // data-aos={window.screen.width < 720 ? "zoom-in" : "fade-down"} 
+                    // data-aos-delay={window.screen.width < 720 ? "" : "500"}
+                     className="w-24 h-20 my-5" src="https://i.ibb.co.com/yYK900G/logo.png" alt="" />
                     <h1 className="2xl:text-6xl xl:text-5xl lg:text-4xl text-2xl   text-[#FF007F] font-bold text-center my-5">Our Services</h1>
                     <p className={`text-sm md:text-base lg:text-lg xl:text-xl courgette-regular text-center w-3/4 font-medium my-5  ${(themeColor=="dark")?"text-slate-300":"text-gray-600"} `}><i>&quot;With a commitment to excellent customer service, we strive to be your trusted partner in crafting the perfect wedding day. Our support team is knowledgeable, responsive, and always eager to help you navigate through any inquiries or concerns.&quot;</i></p>
                 </div>

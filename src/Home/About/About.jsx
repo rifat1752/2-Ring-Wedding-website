@@ -12,12 +12,16 @@ const About = ({button}) => {
 
     return (
         <div className={`min-h-screen mx-5 border relative p-1 ${(themeColor=="dark")?"border-slate-700 bg-[#191e24]":" border-slate-200 bg-slate-50"}    ${button? "my-16":"my-0"} rounded-xl flex flex-col md:flex-row justify-evenly items-center `}>
-            <div   data-aos={window.screen.width < 720 ? "zoom-in" :"fade-right" } className="md:w-5/12  px-5    flex flex-col justify-center items-center ">
-                    <img data-aos={window.screen.width < 720 ? "zoom-in" : "fade-down"}  data-aos-delay={window.screen.width < 720 ? "" : "500"} className="w-14 h-12  mt-10" src={logo} alt="" />
+            <div   
+            // data-aos={window.screen.width < 720 ? "zoom-in" :"fade-right" } 
+            className="md:w-5/12  px-5    flex flex-col justify-center items-center ">
+                    <img 
+                    // data-aos={window.screen.width < 720 ? "zoom-in" : "fade-down"}  data-aos-delay={window.screen.width < 720 ? "" : "500"} 
+                    className="w-14 h-12  mt-10" src={logo} alt="" />
                     <h1  className="2xl:text-6xl xl:text-5xl lg:text-4xl text-2xl   text-[#FF007F] font-bold text-center my-5">About Our Company</h1>
                     <p  className={`md:block hidden 2xl:text-lg courgette-regular font-semibold xl:text-base lg:text-sm text-xs text-center md:text-justify  my-5 ${(themeColor=="dark")?"text-slate-300":"text-gray-600"}  `}><i>"Embark on this exciting journey with us, and let's bring your wedding vision to life. Whether you have a clear picture of your dream day or are looking for inspiration, our team is here to guide you every step of the way. Your love story deserves to be celebrated with elegance, and we are honored to be a part of it."</i></p>
                     {button ? (
-        <Link dto='/about' className=" hidden md:flex my-5  text-white hover:text-slate-100  bg-[#FF007F] hover:bg-[#33c7ec] transition-all duration-300 w-36 h-12 rounded-full  mx-auto">
+        <Link to='/about' className=" hidden md:flex my-5  text-white hover:text-slate-100  bg-[#FF007F] hover:bg-[#33c7ec] transition-all duration-300 w-36 h-12 rounded-full  mx-auto">
           <button className=" text-lg font-bold  mx-auto pb-1">Read More</button>
         </Link>
       ) : (

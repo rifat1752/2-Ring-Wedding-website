@@ -2,62 +2,62 @@
     {
         "id": 1,
         "serviceName": "Venue Rental",
-        "image": "https://i.ibb.co/cCXzgcw/decorated-hall-wedding-is-ready-celebration.jpg",
+        "image": "https://i.ibb.co.com/NdyDyHQj/card1.jpg",
         "price": 5000,
         "description": "Experience the epitome of elegance and charm with our Venue Rental service. Our spacious and beautifully adorned venue sets the stage for a magical wedding ceremony and reception. Whether you envision a romantic garden wedding or a sophisticated ballroom affair, our venue provides the perfect backdrop for your special day. With customizable layout options and a dedicated events team, we ensure that every detail aligns with your vision. Your guests will be enchanted by the ambiance, making your wedding an unforgettable celebration of love and joy."
       },
     {
       "id": 2,
       "serviceName": "Wedding Planning & Coordination",
-      "image": "https://i.ibb.co/yNQkMXH/wedding-cordinator.jpg",
+      "image": "https://i.ibb.co.com/jvWNTQx3/card2.jpg",
       "price": 2500,
       "description": "From initial conceptualization to seamless execution, our experienced planners orchestrate every detail of your dream wedding. We craft personalized timelines, manage vendors, negotiate contracts, and handle on-site logistics, ensuring a stress-free, joyful experience for you and your loved ones. Relax and savor the journey while we turn your vision into reality."
     },
     {
       "id": 3,
       "serviceName": "Venue Sourcing & Booking",
-      "image": "https://i.ibb.co/jrmrhY4/Venue-Sourcing-Booking.jpg",
+      "image": "https://i.ibb.co.com/kV7K7kF0/card3.jpg",
       "price": 1500,
       "description": "Finding the perfect venue can be overwhelming. We navigate the vast landscape of options, taking into account your guest count, budget, vision, and desired ambiance. We recommend stunning locations, negotiate favorable rates, and secure contracts, ensuring your ceremony and reception unfold in the ideal setting."
     },
     {
       "id": 4,
       "serviceName": "Decor & Design",
-      "image": "https://i.ibb.co/zxTcQ2w/Decor-Design.jpg",
+      "image": "https://i.ibb.co.com/fdWLCW6N/card4.jpg",
       "price": 1800,
       "description": "Transform your ceremony and reception into spaces that reflect your unique love story. Our expert designers collaborate with you to create a captivating visual narrative, using flowers, lighting, fabrics, and furniture to evoke the desired mood and atmosphere. From a whimsical garden fairytale to a sleek modern soiree, we bring your vision to life."
     },
     {
       "id": 5,
       "serviceName": "Catering & Beverage Service",
-      "image": "https://i.ibb.co/0XmT7Jy/Catering-Beverage-Service.jpg",
+      "image": "https://i.ibb.co.com/GvJ1xcbm/card5.jpg",
       "price": 2000,
       "description": "Indulge your guests with exquisite culinary experiences. We collaborate with renowned caterers to curate personalized menus that reflect your taste and dietary preferences. From delicate hors d'oeuvres to multi-course gourmet meals, and handcrafted cocktails to bubbly toasts, we ensure your celebration is a feast for the senses."
     },
     {
       "id": 6,
       "serviceName": "Entertainment & Music",
-      "image": "https://i.ibb.co/XJYD2cm/Entertainment-Music.jpg",
+      "image": "https://i.ibb.co.com/zWmqfBLC/card6.jpg",
       "price": 1200,
       "description": "Set the tone for an unforgettable celebration with captivating entertainment. We connect you with talented musicians, DJs, performers, and vendors who will keep your guests engaged and dancing all night long. From live bands and string quartets to DJs spinning your favorite tunes, we create the perfect soundtrack for your memories."
     },
     {
       "id": 7,
       "serviceName": "Photography & Videography",
-      "image": "https://i.ibb.co/FXFLn2p/Photography-Videography.jpg",
+      "image": "https://i.ibb.co.com/ZR5YFrQQ/card7.jpg",
       "description": "Relive your magical day forever with stunning photography and videography. We partner with talented artists who capture the emotions, laughter, and love of your wedding in timeless images and cinematic videos. From candid moments to staged portraits, your story will be beautifully preserved for generations to cherish."
     },
     {
       "id": 8,
       "serviceName": "Floral Design & Styling",
-      "image": "https://i.ibb.co/YDkrS6H/Floral-Design-Styling.jpg",
+      "image": "https://i.ibb.co.com/FkRHNbv5/card8.jpg",
       "price": 800,
       "description": "Let flowers bloom with the essence of your love story. Our experts create bespoke floral arrangements, centerpieces, bouquets, and boutonnières that add a touch of elegance and romance to your wedding. We source seasonal blooms, incorporating your color palette and preferences to create a visual symphony that reflects your unique style."
     },
     {
       "id": 9,
       "serviceName": "Stationery & Invitations",
-      "image": "https://i.ibb.co/p3BVgZR/Stationery-Invitations.jpg",
+      "image": "https://i.ibb.co.com/7tS7TcJN/card9.jpg",
       "price": 500,
       "description": "Announce your special day with exquisite stationery that sets the tone for your celebration. We design and craft personalized invitations, save-the-dates, RSVP cards, and menus that reflect your taste and wedding theme. From classic elegance to modern whimsy, we create lasting impressions that set the stage for a magical event."
     }
